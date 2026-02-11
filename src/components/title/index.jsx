@@ -56,7 +56,7 @@ export const Title = () => {
               <div className="mt-[2px]">
                 <Camera className="camera" />
               </div>
-              <div className="text-white pl-2">Наші пакети</div>
+              <div className="text-white pl-2">Наші ціни</div>
             </div>
             <div
               className="
