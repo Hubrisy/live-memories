@@ -1,4 +1,4 @@
-import PhotoExample1 from "../../assets/imgs/photos/example1.png";
+import MainLogo from '../../assets/imgs/photos/mainlogo.jpg'
 import { ReactComponent as Camera } from "../../assets/imgs/icons/camera.svg";
 import { ReactComponent as Play } from "../../assets/imgs/icons/playbtn.svg";
 
@@ -31,9 +31,9 @@ export const Title = () => {
       <div className="lg:flex justify-between">
         <div>
           <img
-            src={PhotoExample1}
+            src={MainLogo}
             alt=""
-            className="lg:w-100 lg:h-80 rounded-xl border-4 border-gray-300"
+            className="w-96 m-auto rounded-xl border-4 border-gray-300"
           />
         </div>
         <div className="lg:max-w-[550px] xl:max-w-[650px] lg:pl-4 mt-4 sm:mt-6 lg:mt-0">
