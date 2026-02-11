@@ -75,6 +75,8 @@ export const MainForm = () => {
               <option value="" disabled className="text-white">
                 Оберіть пакет
               </option>
+              <option value="Реставрація фото (1шт)">Реставрація фото(1шт)</option>
+              <option value="Анімація фото (1шт)">Анімація фото(1шт)</option>
               <option value="Пакет Mini">Пакет Mini</option>
               <option value="Пакет Classic">Пакет Classic</option>
               <option value="Пакет Premium">Пакет Premium</option>
